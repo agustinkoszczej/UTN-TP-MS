@@ -12,7 +12,7 @@ El sistema tendrá como principal característica la posibilidad de recibir y ej
 | Agustín | Koszczej | 156.102-9 | agustinkoszczej@hotmail.com | K3051 | |
 | Nicolás | Centeno | 155.878-0 | centeno.nico@gmail.com | K3012 | | 
 | Bruno | Manchione | 156.101-7 | bmanchione@gmail.com | K3052 | |
-| Ramón | Eduardo Godoy | 115.369-9 | correogeneral99@hotmail.com | K3013 | |
+| Ramón Eduardo | Godoy | 115.369-9 | correogeneral99@hotmail.com | K3013 | |
 
 ## Requisitos para correr los programas
 
